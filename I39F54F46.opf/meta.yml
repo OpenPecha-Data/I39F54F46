@@ -1,0 +1,18 @@
+id: I39F54F46
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:45.779379
+last_modified: 2023-01-04 11:29:45.779387
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  B074:
+    title: A Prayer to Yumka Tsogyal
+    base_file: B074.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
